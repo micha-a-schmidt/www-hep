@@ -1,9 +1,11 @@
 ---
-title: HEP May 2019
+title: Sydney Meeting
 description: "Half-day Sydney HEP meeting"
 featured_image: '/images/SydneyBanner.jpg'
 ---
-# Timetable Friday 3 May 2019
+The meeting will take place in SNH3003 on Friday 3 May 2019.
+
+# Timetable
 
 * 13:00 Welcome
 * 13:05 **Celine Boehm**

@@ -1,5 +1,5 @@
 ---
-title: "HEP webinars"
+title: "Webinars"
 featured_image: '/images/SydneyBanner.jpg'
 ---
 
