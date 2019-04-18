@@ -1,4 +1,4 @@
-baseURL = "http://hep.cai-schmidt.org/"
+baseURL = "https://hep.cai-schmidt.org/"
 languageCode = "en-us"
 title = "High-Energy Physics in Sydney"
 theme = "ananke"
