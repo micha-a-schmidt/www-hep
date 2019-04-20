@@ -1,9 +1,9 @@
 ---
 title: Sydney Meeting
-description: "Half-day Sydney HEP meeting"
+description: "Half-day Sydney particle physics and cosmology meeting"
 featured_image: '/images/SydneyBanner.jpg'
 ---
-The Sydney HEP meeting will take place in room SNH3003 in the Sydney Nanoscience Hub at the University of Sydney on Friday 3 May 2019.
+The Sydney particle physics and cosmology meeting will take place in room SNH3003 in the Sydney Nanoscience Hub at the University of Sydney on Friday 3 May 2019.
 It is organised by the particle [physics group at the University of Sydney](http://www.physics.usyd.edu.au/hienergy/index.php/Main_Page) and the [particle physics and cosmology group](https://www.physics.unsw.edu.au/research/theoretical-physics/theoretical-physics) at UNSW Sydney. 
 
 # Timetable
@@ -19,7 +19,7 @@ It is organised by the particle [physics group at the University of Sydney](http
 * 14:35 **Jack Bennett** (UNSW)
 * 14:50 discussion
 
-### Break: 15:00-15:20
+*Break: 15:00-15:20*
 
 ### Session 2: 15:20-17:00
 * 15:20 **Belle - Bruce Yabsley/Frank Meier/Priyanka Cheema** (USyd) 
@@ -28,4 +28,4 @@ It is organised by the particle [physics group at the University of Sydney](http
 * 16:05 **short introductions**  
 * 16:50 discussion
 
-### Pub: 17:00-
+*Pub: 17:00-*
