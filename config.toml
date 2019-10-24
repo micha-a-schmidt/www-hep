@@ -2,7 +2,7 @@ baseURL = "https://hep.cai-schmidt.org/"
 languageCode = "en-us"
 title = "High-Energy Physics in Sydney"
 theme = "ananke"
-publishDir = "/mnt/Web/hep"
+publishDir = "public"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -23,3 +23,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+  math = true
